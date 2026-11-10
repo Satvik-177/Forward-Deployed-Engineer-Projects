@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival."
+  },
+  {
+    "title": "Inception",
+    "description": "A skilled thief enters people's dreams to steal secrets and manipulate their thoughts."
+  },
+  {
+    "title": "The Martian",
+    "description": "An astronaut gets stranded on Mars and struggles to survive while waiting for rescue."
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who creates chaos across Gotham City."
+  },
+  {
+    "title": "Gravity",
+    "description": "Two astronauts struggle to survive after their spacecraft is destroyed in orbit."
+  },
+  {
+    "title": "Shutter Island",
+    "description": "A detective investigates the mysterious disappearance of a patient from a psychiatric facility."
+  },
+  {
+    "title": "The Matrix",
+    "description": "A hacker discovers that reality is a simulated world controlled by intelligent machines."
+  },
+  {
+    "title": "Avatar",
+    "description": "A human soldier explores an alien planet and becomes involved in a conflict over its resources."
+  }
+]
