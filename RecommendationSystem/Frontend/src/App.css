@@ -1,0 +1,41 @@
+.app {
+  min-height: 100vh;
+  background: #0b0b0f;
+  color: white;
+}
+
+.hero {
+  min-height: 520px;
+  padding: 110px 20px 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-tag {
+  color: #ff4652;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 24px;
+}
+
+.hero h1 {
+  max-width: 750px;
+  font-size: clamp(38px, 6vw, 64px);
+  line-height: 1.12;
+  letter-spacing: -2px;
+}
+
+.hero h1 span {
+  color: #e50914;
+}
+
+.hero p {
+  max-width: 520px;
+  margin-top: 22px;
+  color: #a5a5b0;
+  font-size: 16px;
+  line-height: 1.7;
+}

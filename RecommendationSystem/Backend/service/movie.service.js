@@ -32,7 +32,7 @@ const initializeMovies = async () => {
 
 const searchMovies = async(query)=>{
     
-    const queryEmbedding = await embeddingModel.embedDocuments(query)
+    const queryEmbedding = await embeddingModel.embedQuery(query)
 
     const matches = movies.map(movie=>{
 
@@ -92,3 +92,4 @@ const getSimilarMovies = async(title)=>{
 };
 
 export { initializeMovies, searchMovies, getSimilarMovies }
+

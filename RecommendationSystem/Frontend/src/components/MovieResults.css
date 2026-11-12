@@ -1,0 +1,149 @@
+.movie-results {
+  width: 90%;
+  max-width: 1200px;
+  margin: 75px auto;
+  color: white;
+}
+
+.results-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin-bottom: 28px;
+}
+
+.results-tag {
+  color: #e50914;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.results-heading h2 {
+  font-size: 29px;
+  margin-top: 9px;
+  letter-spacing: -0.5px;
+}
+
+.results-count {
+  color: #999;
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px;
+}
+
+.movie-card {
+  overflow: hidden;
+  background: #15151c;
+  border: 1px solid #292932;
+  border-radius: 13px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.movie-card:hover {
+  transform: translateY(-7px);
+  border-color: #e50914;
+}
+
+.movie-poster {
+  height: 310px;
+  position: relative;
+  display: flex;
+  align-items: end;
+  padding: 22px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.poster-0 {
+  background:
+    radial-gradient(circle at 70% 25%, #72543c, transparent 35%),
+    linear-gradient(145deg, #252b39, #101017 75%);
+}
+
+.poster-1 {
+  background:
+    radial-gradient(circle at 30% 25%, #59405e, transparent 38%),
+    linear-gradient(145deg, #29202e, #101017 75%);
+}
+
+.poster-2 {
+  background:
+    radial-gradient(circle at 65% 25%, #455b70, transparent 38%),
+    linear-gradient(145deg, #1d3541, #101017 75%);
+}
+
+.movie-poster::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(8, 8, 12, 0.95),
+    transparent 75%
+  );
+}
+
+.poster-number {
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  color: rgba(255,255,255,0.35);
+  font-size: 35px;
+  font-weight: 800;
+}
+
+.poster-overlay {
+  position: relative;
+  z-index: 1;
+}
+
+.poster-label {
+  color: #ff4652;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.poster-overlay h3 {
+  font-size: 25px;
+  margin-top: 9px;
+}
+
+.movie-details {
+  padding: 17px 19px 20px;
+}
+
+.movie-details p {
+  color: #aaaab5;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+@media (max-width: 850px) {
+  .movie-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 550px) {
+  .movie-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .movie-poster {
+    height: 280px;
+  }
+
+  .results-heading h2 {
+    font-size: 23px;
+  }
+}
+

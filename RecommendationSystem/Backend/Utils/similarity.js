@@ -1,10 +1,10 @@
 const cosineSimilarity = (VectorA, VectorB)=>{
 
-    const dotProduct = 0;
-    const magA = 0;
-    const magB = 0;
+    let dotProduct = 0;
+    let magA = 0;
+    let magB = 0;
 
-    for(let i=0; i<VectorA.length(); i++){
+    for(let i=0; i<VectorA.length; i++){
 
         dotProduct += VectorA[i]*VectorB[i];
         magA += VectorA[i]*VectorA[i];

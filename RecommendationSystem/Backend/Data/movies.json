@@ -1,34 +1,123 @@
+
 [
   {
     "title": "Interstellar",
-    "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival."
+    "description": "A team of astronauts travels through a wormhole near Saturn to find a habitable planet for humanity. A science fiction adventure about space, time, love, and survival."
   },
   {
     "title": "Inception",
-    "description": "A skilled thief enters people's dreams to steal secrets and manipulate their thoughts."
-  },
-  {
-    "title": "The Martian",
-    "description": "An astronaut gets stranded on Mars and struggles to survive while waiting for rescue."
+    "description": "A skilled thief enters people's dreams to steal secrets and is assigned an impossible mission to plant an idea inside someone's mind. A mind-bending science fiction thriller."
   },
   {
     "title": "The Dark Knight",
-    "description": "Batman faces the Joker, a criminal mastermind who creates chaos across Gotham City."
+    "description": "Batman faces the Joker, a criminal mastermind who creates chaos across Gotham City and challenges the limits of morality. A dark superhero crime thriller."
+  },
+  {
+    "title": "The Martian",
+    "description": "An astronaut stranded alone on Mars uses science, engineering, and determination to survive while NASA plans a dangerous rescue mission. A realistic science fiction survival adventure."
   },
   {
     "title": "Gravity",
-    "description": "Two astronauts struggle to survive after their spacecraft is destroyed in orbit."
-  },
-  {
-    "title": "Shutter Island",
-    "description": "A detective investigates the mysterious disappearance of a patient from a psychiatric facility."
+    "description": "Two astronauts become stranded in space after a satellite collision destroys their spacecraft. A tense science fiction survival thriller about isolation and human resilience."
   },
   {
     "title": "The Matrix",
-    "description": "A hacker discovers that reality is a simulated world controlled by intelligent machines."
+    "description": "A computer programmer discovers that reality is a simulated world controlled by intelligent machines and joins a rebellion to free humanity. A philosophical science fiction action thriller."
+  },
+  {
+    "title": "Shutter Island",
+    "description": "A US Marshal investigates the disappearance of a patient from a mysterious psychiatric facility on a remote island. A psychological mystery thriller filled with suspense and twists."
   },
   {
     "title": "Avatar",
-    "description": "A human soldier explores an alien planet and becomes involved in a conflict over its resources."
+    "description": "A human soldier travels to an alien moon called Pandora and becomes involved in a conflict between humans and its indigenous inhabitants. A visually spectacular science fiction adventure."
+  },
+  {
+    "title": "Arrival",
+    "description": "A linguist is recruited by the military to communicate with mysterious alien visitors whose arrival could change humanity's understanding of time and language. A thoughtful science fiction mystery."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "description": "A futuristic detective uncovers a secret that could reshape the relationship between humans and artificial beings. A visually atmospheric science fiction mystery."
+  },
+  {
+    "title": "Dune",
+    "description": "A young nobleman travels to a dangerous desert planet containing the most valuable substance in the universe and becomes involved in a political and spiritual conflict. An epic science fiction adventure."
+  },
+  {
+    "title": "Tenet",
+    "description": "A secret agent enters a world of inverted time and must prevent a global catastrophe using technology that reverses the direction of objects through time. A complex science fiction action thriller."
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "description": "A soldier trapped in a time loop relives the same battle against an alien invasion and gradually learns how to defeat the enemy. A science fiction action adventure."
+  },
+  {
+    "title": "Predestination",
+    "description": "A time-traveling agent attempts to prevent crimes before they happen and becomes involved in a mysterious story of identity and destiny. A mind-bending science fiction thriller."
+  },
+  {
+    "title": "Ex Machina",
+    "description": "A programmer is invited to evaluate an advanced humanoid artificial intelligence and begins questioning consciousness, manipulation, and the boundaries between humans and machines. A psychological science fiction thriller."
+  },
+  {
+    "title": "The Prestige",
+    "description": "Two rival magicians become obsessed with creating the ultimate illusion, leading to deception, sacrifice, and unexpected consequences. A dark mystery thriller."
+  },
+  {
+    "title": "Gone Girl",
+    "description": "A woman's disappearance turns her husband into the prime suspect and exposes a disturbing relationship filled with secrets and manipulation. A psychological mystery thriller."
+  },
+  {
+    "title": "Prisoners",
+    "description": "A desperate father investigates the disappearance of his daughter and another child while a detective follows a disturbing trail of clues. A dark crime mystery thriller."
+  },
+  {
+    "title": "Se7en",
+    "description": "Two detectives investigate a serial killer whose crimes are inspired by the seven deadly sins. A dark psychological crime thriller."
+  },
+  {
+    "title": "Fight Club",
+    "description": "An unhappy office worker forms an underground fighting club with an unpredictable stranger, leading to a chaotic exploration of identity and modern society. A psychological drama thriller."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "description": "A banker sentenced to life in prison develops an unlikely friendship and quietly maintains hope while navigating years of incarceration. An emotional prison drama about friendship and freedom."
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "A kind-hearted man with a simple outlook on life unexpectedly becomes part of several major historical events while searching for love and purpose. An emotional comedy drama."
+  },
+  {
+    "title": "The Green Mile",
+    "description": "A prison guard encounters an extraordinary inmate with mysterious healing abilities, changing his understanding of humanity and justice. A supernatural emotional drama."
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "description": "A struggling salesman faces homelessness while raising his young son and pursuing a life-changing career opportunity. An inspiring emotional drama about perseverance."
+  },
+  {
+    "title": "La La Land",
+    "description": "An aspiring actress and a jazz musician fall in love while pursuing their dreams in Los Angeles. A romantic musical drama about ambition and relationships."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "description": "A hotel concierge and his young assistant become involved in a mysterious inheritance dispute and a series of unusual adventures. A stylish comedy mystery adventure."
+  },
+  {
+    "title": "John Wick",
+    "description": "A retired assassin returns to the criminal underworld after a personal tragedy and faces a dangerous network of professional killers. An intense action thriller."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, a survivor joins a rebellious warrior in a high-speed escape from a ruthless tyrant. A visually intense action adventure."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "A teenager discovers his spider powers and meets alternate versions of Spider-Man from different dimensions. An animated superhero adventure about identity and responsibility."
+  },
+  {
+    "title": "Coco",
+    "description": "A young boy who dreams of becoming a musician enters the Land of the Dead and uncovers the truth about his family's history. An emotional animated fantasy adventure."
   }
 ]
